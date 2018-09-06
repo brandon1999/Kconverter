@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kconverter</string>
+    <string name="sisesta">hjljkl</string>
+    <string name="miles">5</string>
+    <string name="km">5</string>
+    <string name="clear">Clear</string>
+    <string name="conver">convert</string>
+</resources>
